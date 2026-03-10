@@ -2,22 +2,19 @@ name: Auto-Update VPN Configs
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    # Каждые 9 минут
+    - cron: "*/9 * * * *"
   workflow_dispatch:
 
 jobs:
   update-configs:
     runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: false
     
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.MY_TOKEN }}
-          fetch-depth: 0
           
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
@@ -27,47 +24,27 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install PyGithub requests urllib3
+          if [ -f "source/requirements.txt" ]; then
+            echo "✅ Installing from requirements.txt"
+            pip install -r source/requirements.txt
+          else
+            echo "✅ Installing packages directly"
+            pip install PyGithub requests urllib3
+          fi
       
       - name: 🔄 Run config updater
         env:
           MY_TOKEN: ${{ secrets.MY_TOKEN }}
         run: |
           if [ -f "source/main.py" ]; then
-            echo "✅ Found main.py in source folder"
-            python source/main.py
+            echo "✅ Running main.py from source folder"
+            cd source && python main.py
           elif [ -f "main.py" ]; then
-            echo "✅ Found main.py in root"
+            echo "✅ Running main.py from root"
             python main.py
           else
             echo "❌ main.py not found!"
+            echo "Searching for main.py:"
+            find . -name "main.py" -type f
             exit 1
           fi
-      
-      - name: 📤 Commit and push changes
-        run: |
-          # Настройка Git
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "actions@github.com"
-          
-          # Добавляем файлы
-          git add README.md 2>/dev/null || true
-          git add ByPassVpnLera.txt 2>/dev/null || true
-          git add githubmirror/*.txt 2>/dev/null || true
-          
-          # Проверяем, есть ли изменения
-          if git diff --quiet && git diff --staged --quiet; then
-            echo "✅ No changes to commit"
-            exit 0
-          fi
-          
-          # Создаем коммит
-          TIMESTAMP=$(date '+%Y%m%d-%H%M%S')
-          git commit -m "🤖 Auto-update configs [${TIMESTAMP}]"
-          
-          # Принудительный push
-          echo "📤 Force pushing changes..."
-          git pull --rebase origin main || true
-          git push --force-with-lease origin main
-          
-          echo "✅ Push successful"
