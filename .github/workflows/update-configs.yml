@@ -64,19 +64,35 @@ jobs:
           echo "📝 Changes detected, committing..."
           git commit -m "🤖 Auto-update configs $(date '+%Y-%m-%d %H:%M')"
           
-          # Пытаемся запушить, в случае ошибки - pull и повтор
+          # Пытаемся запушить с максимальными усилиями
           echo "📤 Pushing changes..."
-          MAX_RETRIES=3
+          MAX_RETRIES=5
           RETRY=0
           
           while [ $RETRY -lt $MAX_RETRIES ]; do
+            # Сначала пробуем просто push
             if git push; then
               echo "✅ Push successful"
               exit 0
             else
               RETRY=$((RETRY+1))
               echo "⚠️ Push failed (attempt $RETRY/$MAX_RETRIES). Pulling latest changes..."
-              git pull --rebase origin main
+              
+              # Сохраняем наш коммит
+              git commit --amend --no-edit
+              
+              # Пытаемся влить изменения с сервера
+              git fetch origin main
+              git rebase origin/main || true
+              
+              # Если rebase не удался, пробуем merge
+              if [ $? -ne 0 ]; then
+                echo "⚠️ Rebase failed, trying merge..."
+                git merge --no-edit origin/main
+              fi
+              
+              # Даем небольшую паузу перед следующей попыткой
+              sleep 2
             fi
           done
           
