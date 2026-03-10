@@ -5152,3 +5152,19 @@ vless://fccd7b68-1176-4947-8d7b-7e84261a19b9@188.121.102.71:555?security=&encryp
 vless://5b2dc2a9-75d1-3e19-586c-deab08b2618d@lord.socialxxmedia.proxt:440?encryption=none&type=tcp&headerType=http&host=fast.com&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://9b47a7d6-e54e-49ab-9076-82e637fae127@web.irantrade.online:8443?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://71b1468c-820f-4f68-8d2a-78744d7340fe@for.shoppizii.ir:15500?security=none&allowInsecure=0&encryption=none&type=tcp&host=rubika.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://fccd7b68-1176-4947-8d7b-7e84261a19b9@188.121.102.71:555?security=none&encryption=none&host=188.121.102.71&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5b2dc2a9-75d1-3e19-586c-deab08b2618d@lord.socialxxmedia.proxt:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9b47a7d6-e54e-49ab-9076-82e637fae127@web.irantrade.online:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://39f161c8-6673-4f78-bd37-e3c8399062e1@shop.webchipro2.ir:2030?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f1907b08-4497-4fdc-9d9c-f152bd59cb36@soft98.starz-net.com:7070?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1120?security=tls&encryption=none&headerType=none&type=tcp&sni=zaya1.ketabland.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
