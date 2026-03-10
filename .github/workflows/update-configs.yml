@@ -2,50 +2,54 @@ name: Auto-Update VPN Configs
 
 on:
   schedule:
-    # Каждые 9 минут - используем */9, но GitHub Actions имеет ограничение минимум 5 минут
-    # ВАЖНО: GitHub Actions может иметь задержки при частых запусках [citation:3][citation:6]
     - cron: "*/9 * * * *"
-  # Возможность ручного запуска
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   update-configs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: 🐍 Set up Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip' # кэширование зависимостей для ускорения
       
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install PyGithub requests urllib3
       
-      - name: 🔄 Run config updater
+      - name: Find and run main.py
         env:
           MY_TOKEN: ${{ secrets.MY_TOKEN }}
-        run: python main.py
-      
-      - name: ✅ Check for changes
-        id: check_changes
         run: |
-          if git diff --quiet; then
-            echo "changed=false" >> $GITHUB_OUTPUT
+          echo "Looking for main.py..."
+          if [ -f "source/main.py" ]; then
+            echo "Found in source/ folder"
+            python source/main.py
+          elif [ -f "main.py" ]; then
+            echo "Found in root folder"
+            python main.py
           else
-            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Searching entire repository..."
+            find . -name "main.py" -type f
+            echo "❌ main.py not found!"
+            exit 1
           fi
       
-      - name: 📤 Commit and push if changed
-        if: steps.check_changes.outputs.changed == 'true'
+      - name: Commit and push if changed
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add README.md ByPassVpnLera.txt githubmirror/*.txt
-          git commit -m "🤖 Автообновление конфигов $(date '+%Y-%m-%d %H:%M')"
-          git push
+          git add README.md ByPassVpnLera.txt githubmirror/*.txt 2>/dev/null || true
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "🤖 Auto-update configs $(date '+%Y-%m-%d %H:%M')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
