@@ -2,14 +2,18 @@ name: Auto-Update VPN Configs
 
 on:
   schedule:
-    - cron: "*/9 * * * *"
+    # Каждые 3 часа (в 0 минут)
+    - cron: "0 */3 * * *"
   workflow_dispatch:
-  push:
-    branches: [ main ]
+  # Убираем push, чтобы не создавать лишние запуски
 
 jobs:
   update-configs:
     runs-on: ubuntu-latest
+    # Добавляем блокировку, чтобы одновременно выполнялся только один workflow
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: false
     
     steps:
       - name: 📥 Checkout repository
@@ -60,17 +64,16 @@ jobs:
             exit 0
           fi
           
-          # Создаем коммит
-          echo "📝 Changes detected, committing..."
-          git commit -m "🤖 Auto-update configs $(date '+%Y-%m-%d %H:%M')"
+          # Создаем уникальный коммит с timestamp
+          TIMESTAMP=$(date '+%Y%m%d-%H%M%S')
+          git commit -m "🤖 Auto-update configs [${TIMESTAMP}]"
           
-          # Пытаемся запушить с максимальными усилиями
-          echo "📤 Pushing changes..."
+          # Максимальное количество попыток
           MAX_RETRIES=5
           RETRY=0
           
           while [ $RETRY -lt $MAX_RETRIES ]; do
-            # Сначала пробуем просто push
+            # Пробуем запушить
             if git push; then
               echo "✅ Push successful"
               exit 0
@@ -78,21 +81,18 @@ jobs:
               RETRY=$((RETRY+1))
               echo "⚠️ Push failed (attempt $RETRY/$MAX_RETRIES). Pulling latest changes..."
               
-              # Сохраняем наш коммит
+              # Сохраняем изменения и обновляем
+              git fetch origin main
+              git stash
+              git rebase origin/main || git merge origin/main
+              git stash pop || true
+              
+              # Обновляем коммит
+              git add .
               git commit --amend --no-edit
               
-              # Пытаемся влить изменения с сервера
-              git fetch origin main
-              git rebase origin/main || true
-              
-              # Если rebase не удался, пробуем merge
-              if [ $? -ne 0 ]; then
-                echo "⚠️ Rebase failed, trying merge..."
-                git merge --no-edit origin/main
-              fi
-              
-              # Даем небольшую паузу перед следующей попыткой
-              sleep 2
+              # Ждем перед следующей попыткой
+              sleep 5
             fi
           done
           
