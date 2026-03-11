@@ -6385,3 +6385,23 @@ vless://14734ef6-6a9e-41c6-8dee-759aa2496952@151.101.129.194:80?encryption=none&
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.`#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://523cece2-1be9-47e4-bcad-60def7d726d9@nothome.noeq12.site:5050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFhIVFRQLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAiMTY3Ljg2LjEwMC40MCIsICJwb3J0IjogNDQzLCAiaWQiOiAiYTUyNDM2NzMtNGMwNC00MTdiLWEzZGEtMWE2MTZhY2FlNTA5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAieGh0dHAiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiMTY3Ljg2LjEwMC40MCIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiL1FsYk4zaFRkSFJvRWxYV0RRWVRsIiwgInRscyI6ICJ0bHMiLCAic25pIjogIjE2Ny44Ni4xMDAuNDAiLCAiZnAiOiAiY2hyb21lIiwgImNvcmUiOiAieHJheSIsICJleHRyYSI6ICJ7XCJoZWFkZXJzXCI6e30sXCJkb3dubG9hZFNldHRpbmdzXCI6e1wiYWRkcmVzc1wiOlwiMTY3Ljg2LjEwMC40MFwiLFwicG9ydFwiOjQ0MyxcIm5ldHdvcmtcIjpcInhodHRwXCIsXCJ4aHR0cFNldHRpbmdzXCI6e1wicGF0aFwiOlwiL1FsYk4zaFRkSFJvRWxYV0RRWVRsXCIsXCJob3N0XCI6XCIxNjcuODYuMTAwLjQwXCIsXCJtb2RlXCI6XCJhdXRvXCIsXCJleHRyYVwiOntcImhlYWRlcnNcIjp7fX19LFwic2VjdXJpdHlcIjpcInRsc1wiLFwidGxzU2V0dGluZ3NcIjp7XCJzZXJ2ZXJOYW1lXCI6XCIxNjcuODYuMTAwLjQwXCIsXCJhbGxvd0luc2VjdXJlXCI6dHJ1ZSxcImZpbmdlcnByaW50XCI6XCJjaHJvbWVcIixcImFscG5cIjpbXCJoM1wiXX19fSIsICJtdXh0eXBlIjogInNtdXgiLCAibXV4bWF4YyI6IDQsICJtdXgiOiA0LCAibXV4c21heCI6IDAsICJtdXhwYWQiOiBmYWxzZX0=
+
+vless://523cece2-1be9-47e4-bcad-60def7d726d9@nothome.noeq12.site:5050?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://70e84e8e-df67-4654-a46a-454992ed58e9@185.143.234.120:443?encryption=none&type=ws&host=alef.ir.oadeflantrogm.mahanmapcdn.com&path=/?ed%3D443&security=tls&fp=randomized&sni=alef.ir.oadeflantrogm.mahanmapcdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://dba57a5d-f8e7-4a00-b468-406dcd9e5251@pro.vpsino.com:20960?security=none&type=tcp&headerType=none&path=%2F&host=nobitex.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://dba57a5d-f8e7-4a00-b468-406dcd9e5251@pro.vpsino.com:20493?security=none&type=tcp&headerType=none&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://dba57a5d-f8e7-4a00-b468-406dcd9e5251@pro.vpsino.com:20920?security=none&type=tcp&headerType=none&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://7443fd4b-1f3b-53af-dabd-3ff69241f55a@[::ffff:5eb8:1f74]:58008?security=none&encryption=none&host=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9c07c6bc-0aae-40e1-a719-75f764a1cb5b@emg3.saipasamandemg3.sbs:2003?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://d43e32f0-9fef-4228-865b-39e43258923e@193.151.150.78:206?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
