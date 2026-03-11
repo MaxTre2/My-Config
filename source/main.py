@@ -841,11 +841,12 @@ def create_filtered_configs():
     log(f"🔄 Нормализация формата {len(all_configs)} конфигов...")
     
     def normalize_vless_link(link):
-    """Приводит vless ссылку к стандартному формату"""
+    """Приводит vless ссылку к стандартному формату без [openproxylist.com]"""
     try:
         if not link.startswith('vless://'):
             return link
         
+        # Разделяем на основную часть и комментарий
         parts = link.split('#', 1)
         main_part = parts[0]
         comment = parts[1] if len(parts) > 1 else ''
@@ -858,6 +859,7 @@ def create_filtered_configs():
                     k, v = p.split('=', 1)
                     params[k] = v
             
+            # Стандартный порядок параметров
             param_order = ['encryption', 'flow', 'fp', 'pbk', 'security', 'sid', 'sni', 'type']
             ordered_params = []
             
@@ -866,6 +868,7 @@ def create_filtered_configs():
                     ordered_params.append(f"{key}={params[key]}")
                     del params[key]
             
+            # Добавляем оставшиеся параметры в алфавитном порядке
             for key, value in sorted(params.items()):
                 ordered_params.append(f"{key}={value}")
             
@@ -875,13 +878,12 @@ def create_filtered_configs():
                 # Очищаем комментарий от URL-кодировки
                 comment = html.unescape(comment)
                 comment = urllib.parse.unquote(comment)
-                # Убираем только [openproxylist.com] если он есть
+                # Убираем [openproxylist.com] если он есть
                 comment = re.sub(r'\[?openproxylist\.com\]?\s*', '', comment, flags=re.IGNORECASE)
-                # Убираем лишние пробелы в начале и конце
-                comment = comment.strip()
-                
-                # Добавляем комментарий только если он не пустой
-                if comment:
+                # Убираем лишние пробелы
+                comment = ' '.join(comment.split())
+                # Добавляем комментарий без [openproxylist.com]
+                if comment.strip():
                     normalized += f"#{comment}"
             
             return normalized
