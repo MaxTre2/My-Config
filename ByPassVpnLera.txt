@@ -1,4 +1,7 @@
-MaxTre - VPN
+#profile-title: base64:TWF4VHJlIC0gVlBO
+#profile-update-interval: 9
+# MaxTre - VPN
+
 vless://43e322c8-e044-4625-a560-9bfec45e0eae@fin.rokvpn.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#%5BOpenRay%5D%20Dynamic-10545
 vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@auto.ru-ya.ray-vpn.ru:4380?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=eh.vk.com&fp=chrome&pbk=OIhzlaOTObsr3NMVBq1MqSlCCeELaBhZ1r7Z_1M6mRs&sid=#%5BOpenRay%5D%20Dynamic-10954
 vless://7559ad2a-a419-4fd7-bc6a-9350a017f72a@ya.asbndx.com:2772?security=reality&encryption=none&pbk=rvMyQI5ZuNHmUjz0r9fHubtdKFRFaeGRSqjFqNoGgGU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=0f4daaf08700a15f#%5BOpenRay%5D%20Dynamic-10961
