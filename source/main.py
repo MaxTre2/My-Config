@@ -841,55 +841,54 @@ def create_filtered_configs():
     log(f"🔄 Нормализация формата {len(all_configs)} конфигов...")
     
     def normalize_vless_link(link):
-        """Приводит vless ссылку к стандартному формату"""
-        try:
-            if not link.startswith('vless://'):
-                return link
-            
-            # Разделяем на основную часть и комментарий
-            parts = link.split('#', 1)
-            main_part = parts[0]
-            comment = parts[1] if len(parts) > 1 else ''
-            
-            if '?' in main_part:
-                base, params_str = main_part.split('?', 1)
-                params = {}
-                for p in params_str.split('&'):
-                    if '=' in p:
-                        k, v = p.split('=', 1)
-                        params[k] = v
-                
-                # Стандартный порядок параметров как на скриншоте
-                param_order = ['encryption', 'flow', 'fp', 'pbk', 'security', 'sid', 'sni', 'type']
-                ordered_params = []
-                
-                for key in param_order:
-                    if key in params:
-                        ordered_params.append(f"{key}={params[key]}")
-                        del params[key]
-                
-                # Добавляем оставшиеся параметры в алфавитном порядке
-                for key, value in sorted(params.items()):
-                    ordered_params.append(f"{key}={value}")
-                
-                normalized = f"{base}?{'&'.join(ordered_params)}"
-                
-                if comment:
-                    # Очищаем комментарий от URL-кодировки и лишних символов
-                    comment = html.unescape(comment)
-                    comment = urllib.parse.unquote(comment)
-                    # Убираем квадратные скобки и проценты
-                    comment = re.sub(r'[\[\]%]', '', comment)
-                    # Убираем лишние пробелы
-                    comment = ' '.join(comment.split())
-                    # Добавляем в нужном формате
-                    normalized += f"#[openproxylist.com] {comment}"
-                
-                return normalized
-        except Exception as e:
-            log(f"⚠️ Ошибка нормализации: {e}")
+    """Приводит vless ссылку к стандартному формату"""
+    try:
+        if not link.startswith('vless://'):
             return link
+        
+        parts = link.split('#', 1)
+        main_part = parts[0]
+        comment = parts[1] if len(parts) > 1 else ''
+        
+        if '?' in main_part:
+            base, params_str = main_part.split('?', 1)
+            params = {}
+            for p in params_str.split('&'):
+                if '=' in p:
+                    k, v = p.split('=', 1)
+                    params[k] = v
+            
+            param_order = ['encryption', 'flow', 'fp', 'pbk', 'security', 'sid', 'sni', 'type']
+            ordered_params = []
+            
+            for key in param_order:
+                if key in params:
+                    ordered_params.append(f"{key}={params[key]}")
+                    del params[key]
+            
+            for key, value in sorted(params.items()):
+                ordered_params.append(f"{key}={value}")
+            
+            normalized = f"{base}?{'&'.join(ordered_params)}"
+            
+            if comment:
+                # Очищаем комментарий от URL-кодировки
+                comment = html.unescape(comment)
+                comment = urllib.parse.unquote(comment)
+                # Убираем только [openproxylist.com] если он есть
+                comment = re.sub(r'\[?openproxylist\.com\]?\s*', '', comment, flags=re.IGNORECASE)
+                # Убираем лишние пробелы в начале и конце
+                comment = comment.strip()
+                
+                # Добавляем комментарий только если он не пустой
+                if comment:
+                    normalized += f"#{comment}"
+            
+            return normalized
+    except Exception as e:
+        log(f"⚠️ Ошибка нормализации: {e}")
         return link
+    return link
 
     # Применяем нормализацию
     normalized_configs = []
