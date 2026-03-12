@@ -1,15 +1,17 @@
-#profile-title: base64:TWF4VHJlIC0g0KLQntCfLTEwINCx0YvRgdGC0YDRi9GFINC60L7QvdGE0LjQs9C+0LI=
-#profile-update-interval: 3
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-# MaxTre - ТОП-10 быстрых конфигов
+#profile-title: base64:TWF4VHJlIC0g0KLQntCfLTEwINCx0YvRgdGC0YDRi9GF
+#profile-update-interval: 6
+# MaxTre - ТОП-10 быстрых
+# Сгенерировано: 23:55 | 12.03.2026
+# Самые быстрые конфиги
+# Конфигов: 10
 
-ss://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@103.35.189.204:8080?type=tcp&security=reality&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&sid=&sni=max.ru&path=&host=#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-13432
-ss://a54cc2cf-c22f-4739-9adc-4ed5a7b08841@15.204.12.101:443?security=reality&encryption=none&pbk=KDmv-AW9OoLSB4iA22vKDKOFf6O7BTMuQvETDI9aTBQ&headerType=none&fp=safari&spx=%2F&type=tcp&sni=yandex.com&sid=4d#@Vip_Security join us - 1272
-ss://5d837e94-967d-43a8-8e36-440ddfa4fd15@87.120.219.99:55057?security=reality&encryption=none&pbk=uSzNQq_GJZGbq4SHtEsqBY93C2acsM-K-QACZC-J6Eo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=aa5f8562357295ff#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-506
-ss://0c49f1d8-3d34-473b-bebf-9d9a4811db62@45.141.234.196:51472?security=reality&encryption=none&pbk=hvFQArY-PeMdz4jfKEGZ9HgIJvZbR5Bd9F0GgNLemQI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=ab4398ec00fc775d#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-16
-ss://54e5a989-5938-43ce-ba58-026ddbfd4d7b@45.141.234.159:30724?security=reality&encryption=none&pbk=KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=eab8ab08e4d6faa0#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-17
-ss://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.135:5443?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yandex.com#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-2381
-ss://1d6705da-0790-49bf-bf47-b166d2e945cf@144.31.24.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.okcdn.ru&fp=chrome&security=reality&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=39a1eb3ec417cd66#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40V2rayBaaz%20%2812%29
-ss://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&security=reality&sid=b93d114f6a85e9&sni=max.ru&type=tcp#@Vip_Security join us - 1151
-ss://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.103:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=yandex.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-2697
-ss://4043cb09-ecb6-4001-b08a-da2c4d74f1d5@45.12.142.191:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-2905
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12179
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12382
+vless://26524cce-d514-4014-a426-365fb266a14d@104.17.73.206:2053?security=tls&sni=snippet.fgfw.eu.org&type=ws&host=snippet.fgfw.eu.org&path=%2Fdanfeng%3Fed%3D2560&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-13971
+trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11997
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.96.7:443?path=/dbJqwUHWfrXV0Z3Q?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94yv7lIF0-AnXiSd9EFeHVVS7mxn6Bh.z-ULe-IKA-d-e-Ne-k-E.WORKERs.DEv#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12448
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOjAsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBvcnQiOjg0NDMsInBzIjoiW09wZW5SYXldIPCfh6jwn4emIENBLTE1MDUyIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://8a36be1d-7c78-4885-8a1f-bedf5ba7db1c@104.17.147.22:443?path=%2FrN50nmm9L1DeY73C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lucky-lab-ac6d.caveyi8071.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15202
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?path=/7J5lLqtBnJg9WjVT?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12446
+vless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&security=tls&type=ws&host=telegram.proxie2-tel.workers.dev&path=%2FeyJqdW5rIjoidXYyRXNUTXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&sni=tELEGRAM.prOXIe2-TEL.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12647
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emIENBLTE1MjI0IiwiYWRkIjoiMTA0LjIxLjk1LjE4MSIsInBvcnQiOjgwLCJpZCI6ImM1NTgzMjhiLWViNDYtNDI0Yy1iOWUwLTU3NDc3MGYwYjA3MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJqamttLnplbS5pbmRldnMuaW4iLCJwYXRoIjoiLzdzT3owcDRTelUxRDZYTkMwQlhHdEoiLCJ0bHMiOiIiLCJzbmkiOiJqamttLnplbS5pbmRldnMuaW4iLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJuYW1lIjoiQGVuX3Zwbi/aqdin2YbZgduM2q8g2YfYp9uMINio24zYtNiq2LEifQ==
