@@ -3390,7 +3390,6 @@ vless://70ecfd5e-b439-410e-f1f5-68245522e0b8@85.133.214.37:443?security=none&all
 
 vless://81d51ca4-a8b4-4924-bb33-02f59333dcd5@mp.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://7dfd5a68-a3d0-462e-a6a9-770ba0e583c8@167.86.100.40:443?hiddify=1&sni=167.86.100.40&type=xhttp&alpn=h3&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=%2FYBNImKfXWDQYTl&host=167.86.100.40&encryption=none&fp=chrome&core=xray&extra=%7B%22headers%22%3A%7B%7D%2C%22downloadSettings%22%3A%7B%22address%22%3A%22167.86.100.40%22%2C%22port%22%3A443%2C%22network%22%3A%22xhttp%22%2C%22xhttpSettings%22%3A%7B%22path%22%3A%22%2FYBNImKfXWDQYTl%22%2C%22host%22%3A%22167.86.100.40%22%2C%22mode%22%3A%22auto%22%2C%22extra%22%3A%7B%22headers%22%3A%7B%7D%7D%7D%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22serverName%22%3A%22167.86.100.40%22%2C%22allowInsecure%22%3Atrue%2C%22fingerprint%22%3A%22chrome%22%2C%22alpn%22%3A%5B%22h2%22%5D%7D%7D%7D&headerType=none&allowInsecure=true&insecure=true&security=tls#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0hhRnlENElwVzhXMkxD@102.37.237.190:443?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -5880,7 +5879,6 @@ vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 
 vless://adfeb5f4-4aaa-43b5-a861-eead2bbda5ba@jang.asukasimp.com:8080?type=xhttp&security=none&path=%2F&host=portal.azure.com&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
-vless://a5243673-4c04-417b-a3da-1a616acae509@167.86.100.40:443?hiddify=1&sni=167.86.100.40&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=YBNImKftkcVqe6iW&host=167.86.100.40&serviceName=YBNImKftkcVqe6iW&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
 vless://10cff2b1-47d6-46d1-a22f-91811f811e6a@51.145.124.202:37024?type=xhttp&encryption=none&path=%2Fmamads&host=&mode=auto&security=reality&pbk=X641mXxaravTp_Jfdryhh13bZL2yMB5i7VpQxJpuJTk&fp=firefox&sni=wikipedoia.org&sid=a762d9&spx=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
