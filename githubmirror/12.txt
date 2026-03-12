@@ -1,12 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
 vless://c0ac5114-b6e9-216a-4c11-9ac0c515b8ff@dragon.socialxxmedia.pro:350/?encryption=none&type=tcp&headerType=http&host=fast.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
-
-trojan://telegram-id-directvpn@51.44.109.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.109.231:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://bf6fe550-023e-4b64-ab85-158d84308111@94.183.149.168:8880?type=ws&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
@@ -16,17 +12,13 @@ vless://c2950b3c-9d45-441f-a4a8-b6ba9b36a48d@94.183.149.201:8880?path=%2F&securi
 
 vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
-vless://fac62eac-1eec-4260-a991-0cac2f8745a3@partner.zoom.us:80?encryption=none&host=free-server.techsonic.ggff.net&path=/@Tech_Sonic&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2nodes
+vless://b2878bf1-40a1-4294-8567-50851f1f3842@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=none&type=tcp&headerType=http&path=%2F&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%87%BB%F0%9F%87%A6%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@179.43.176.216:443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2nodes
 
-vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
 vless://d8f52ed3-d94d-4195-a1f7-b32d3934268e@TR.DarinaService-IR.Store:3333?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
-vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
-vless://b257-a0df0f5c899b@1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:700?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItiz2LHZiNuM2LMg2YjbjNqY2YcgQHNleHlib3l2cG4iLA0KICAiYWRkIjogIjE4NS4xMjYuNS4xMzAiLA0KICAicG9ydCI6ICIzMDAwIiwNCiAgImlkIjogIjgyYTI5NmQ4LTY3ZmMtNDAxYi05OWQxLWYwNzJhMmI3NmZmNyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
@@ -39,8 +31,6 @@ vless://19542a29-e734-41c9-b372-b30286a61048@entekhabat.iran.asiatech.numtwo.ira
 trojan://telegram-id-privatevpns@3.124.229.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=troja.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40BrilliantGift
 
 vless://419be96a-f900-4b0a-aecd-9402bddcfc4c@62.60.146.14:16020?encryption=none&type=tcp&headerType=http&path=%2F&host=igap.net#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://b2878bf1-40a1-4294-8567-50851f1f3842@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=none&type=tcp&headerType=http&path=%2F&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://76083baf-1fb7-44d0-b241-2d9af1191621@151.101.193.194:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=%2FTignaliSWithYou&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2rayng_Fast
 
@@ -706,6 +696,8 @@ vless://bddaee6c-3145-4817-acfc-ab028578989b@s5.laptopstock7.com:9976?security=n
 vless://2f6475b1-dbaf-4834-823c-a0a7e358ad44@sss12.Digianti.ir:8032?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb@x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885?security=none&encryption=none&host=skyroom.online%2C+gharar.ir%2C+igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
 
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
@@ -7657,3 +7649,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2.37.156.224:443
 vless://451bb03c-7afa-41f2-ad37-8f280c8308af@speed.mobilekamali.com:40999?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://20d983ca-d7fa-4fc6-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=a4.maxriser.ir&fp=chrome&type=ws&allowInsecure=0&sni=a4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b6f3beb0-40f6-46c3-a49e-971ca04e7647@oaOxo6gKNrf8.hosted-in.p7d.ir:2052?path=%2F%EC%98%88%EC%81%9C%2B%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC%EA%B0%80%2B%EC%97%86%EC%96%B4%EC%84%9C%2B%EB%84%88%EB%AC%B4%2B%EC%99%B8%EB%A1%9C%EC%9B%8C%EC%9A%94%3Fed%3D2560&security=&encryption=none&host=WakCwfOIV4Fm73uUYgmTmC.de2.node.chat2.fun&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=a4.maxriser.ir&path=/&sni=a4.maxriser.ir&fp=chrome&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+
+vless://bb4c2af2-c8b5-4688-bf60-50de46587f12@188.114.98.0:2087?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=x1.realitysec4.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1.realitysec4.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayngSeven
+
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+
+vless://bb4c2af2-c8b5-4688-bf60-50de46587f12@188.114.98.0:443?path=%2Fhome&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=83.archIve-anDroid.sitE&fp=chrome&type=ws&allowInsecure=0&sni=83.archIve-anDroid.sitE#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayngSeven
