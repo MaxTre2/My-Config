@@ -7427,3 +7427,17 @@ vless://9d15d7ab-5867-4857-b813-bf1924510bca@ez.pubgping.com:8080?security=none&
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?security=tls&allowInsecure=0&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://9d15d7ab-5867-4857-b813-bf1924510bca@ez.pubgping.com:8080?type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a212eb37-f48d-4164-a0dd-75b1877dd440@ir.pivotstrategy.ir:1605?type=tcp&security=none&encryption=none&headerType=http&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAidWwtdWFlMS4wOXZwbi5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjBhOTc5YzUyLWNhODYtNDkzZC1iZDU4LTIwMWE0MjFkMmNmZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
+vless://645f1259-d71d-4631-a8d3-041bba140f8e@ul-uae1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a212eb37-f48d-4164-a0dd-75b1877dd440@ir.pivotstrategy.ir:1605?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b59b16c3-5177-45d1-a0a0-8c31bf704a74@85.133.240.82:8443?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://ae02565b-9628-4032-a367-f4036dc7bcae@104.248.241.119:8443?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
