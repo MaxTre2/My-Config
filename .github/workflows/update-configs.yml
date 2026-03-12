@@ -2,7 +2,7 @@ name: Auto-Update VPN Configs
 
 on:
   schedule:
-    - cron: "*/9 * * * *"
+    - cron: "*/3 * * * *"
   workflow_dispatch:
 
 jobs:
