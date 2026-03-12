@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
 vless://f5630288-5254-42b5-b098-d7d5737e831a@185.136.135.172:41002?encryption=none&type=tcp&headerType=http&host=fast.com&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
 
-vless://3574a6d1-ad41-47ab-ba3e-1ecc425fa6f6@93.126.19.117:37449?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray20261
-
 
 
 hy2://5046SHWqk6@91.132.51.160:844/#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
@@ -7823,3 +7821,7 @@ vless://yekishan#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://gayide#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://335be803-417f-4c75-98b7-1df8d5d6d214@yz.musicali.ir:6565?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9f366a3e-348c-492c-be54-4a0a6db94cc7@79.175.167.147:80?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&security=tls2%2Chttp%2F1.1&encryption=none&insecure=0&host=Ws2.be.info&fp=chrome&type=ws&allowInsecure=0&sni=Ws2.beepn.info#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
