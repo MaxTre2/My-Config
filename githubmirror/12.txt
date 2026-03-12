@@ -24,16 +24,6 @@ vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?path=%2FeyJqdW5
 
 vless://87fab07d-c325-43e5-8873-6b886b71dc14@oPeN.ChATGPT.coM:2053?path=%2F&security=tls&alpn=h2&encryption=none&host=channel-imtproto.arezoni1.ir&fp=chrome&type=ws&sni=channel-imtproto.arezoni1.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40netmelli15
 
-vless://c3f30d4c-2ba7-4cb8-aee1-a1ce9652d5aa@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?encryption=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
-
-vless://b1b56698-6392-46bc-bb0d-10d9f1e1d73f@mp.kharazmi.top:30086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir%2F%3FTelegram%40MTMVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
 
 vless://18f72be7-0651-4037-928b-8a309d685796@194.107.126.157:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
@@ -49,6 +39,16 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=realit
 
 
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://c3f30d4c-2ba7-4cb8-aee1-a1ce9652d5aa@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?encryption=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
+
+vless://b1b56698-6392-46bc-bb0d-10d9f1e1d73f@mp.kharazmi.top:30086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir%2F%3FTelegram%40MTMVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 
 
@@ -3396,6 +3396,7 @@ vless://70ecfd5e-b439-410e-f1f5-68245522e0b8@85.133.214.37:443?security=none&all
 
 vless://81d51ca4-a8b4-4924-bb33-02f59333dcd5@mp.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://7dfd5a68-a3d0-462e-a6a9-770ba0e583c8@167.86.100.40:443?hiddify=1&sni=167.86.100.40&type=xhttp&alpn=h3&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=%2FYBNImKfXWDQYTl&host=167.86.100.40&encryption=none&fp=chrome&core=xray&extra=%7B%22headers%22%3A%7B%7D%2C%22downloadSettings%22%3A%7B%22address%22%3A%22167.86.100.40%22%2C%22port%22%3A443%2C%22network%22%3A%22xhttp%22%2C%22xhttpSettings%22%3A%7B%22path%22%3A%22%2FYBNImKfXWDQYTl%22%2C%22host%22%3A%22167.86.100.40%22%2C%22mode%22%3A%22auto%22%2C%22extra%22%3A%7B%22headers%22%3A%7B%7D%7D%7D%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22serverName%22%3A%22167.86.100.40%22%2C%22allowInsecure%22%3Atrue%2C%22fingerprint%22%3A%22chrome%22%2C%22alpn%22%3A%5B%22h2%22%5D%7D%7D%7D&headerType=none&allowInsecure=true&insecure=true&security=tls#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0hhRnlENElwVzhXMkxD@102.37.237.190:443?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -5885,6 +5886,7 @@ vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 
 vless://adfeb5f4-4aaa-43b5-a861-eead2bbda5ba@jang.asukasimp.com:8080?type=xhttp&security=none&path=%2F&host=portal.azure.com&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
+vless://a5243673-4c04-417b-a3da-1a616acae509@167.86.100.40:443?hiddify=1&sni=167.86.100.40&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=YBNImKftkcVqe6iW&host=167.86.100.40&serviceName=YBNImKftkcVqe6iW&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
 vless://10cff2b1-47d6-46d1-a22f-91811f811e6a@51.145.124.202:37024?type=xhttp&encryption=none&path=%2Fmamads&host=&mode=auto&security=reality&pbk=X641mXxaravTp_Jfdryhh13bZL2yMB5i7VpQxJpuJTk&fp=firefox&sni=wikipedoia.org&sid=a762d9&spx=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
@@ -7768,3 +7770,5 @@ vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:2053?encryption=none&t
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=app-core-02.secoxi.site&type=ws&allowInsecure=0&sni=uiuyoyw.secoxi.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40YamYamProxy
+
+vless://751a0f27-095f-41b2-aff4-46bba8188607@F1.HaMrAhCoNf.Ir:2087?type=xhttp&mode=auto&host=p2-core-04.secoxi.site&path=/hamrah?ed%3D2087&security=tls&sni=p2-core-04.secoxi.site#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
