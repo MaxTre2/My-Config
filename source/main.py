@@ -994,7 +994,7 @@ def create_filtered_configs():
         title_base64 = base64.b64encode(title.encode('utf-8')).decode('utf-8')
         
         header = f"#profile-title: base64:{title_base64}\n"
-        header += "#profile-update-interval: 9\n"
+        header += "#profile-update-interval: 3\n"
         header += f"# {title}\n"
         header += f"# Рабочих конфигов: {len(final_configs)}\n"
         header += f"# Обновлено: {offset}\n\n"
