@@ -2,7 +2,7 @@ name: Auto-Update VPN Configs
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Каждые 6 часов
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -35,7 +35,11 @@ jobs:
         run: |
           if [ -f "xray" ]; then
             chmod +x xray
-            echo "✅ xray найден"
+            echo "✅ xray найден в корне"
+          elif [ -f "source/xray" ]; then
+            chmod +x source/xray
+            echo "✅ xray найден в папке source"
+            ln -sf source/xray xray
           else
             echo "⚠️ xray не найден"
           fi
