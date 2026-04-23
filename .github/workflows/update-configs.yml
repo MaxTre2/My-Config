@@ -57,6 +57,7 @@ jobs:
             echo "✅ Нет изменений для коммита"
           else
             git commit -m "Автообновление конфигов $(date +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
             git push
             echo "✅ Изменения отправлены"
           fi
