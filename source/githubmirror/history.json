@@ -2322,9 +2322,9 @@
     "alive": true
   },
   "ffd9a3606799e640": {
-    "latency": 29,
+    "latency": 64,
     "country": "IT",
-    "time": 1777037183.211985,
+    "time": 1777101358.13804,
     "alive": true
   },
   "4b341a5b611101c4": {
@@ -2832,9 +2832,9 @@
     "alive": true
   },
   "2ffe39e6bb8b4691": {
-    "latency": 115,
-    "country": "IT",
-    "time": 1777037041.48898,
+    "latency": 154,
+    "country": "AT",
+    "time": 1777101597.26105,
     "alive": true
   },
   "5022eae3d12ff833": {
@@ -4578,9 +4578,9 @@
     "alive": true
   },
   "e61355b1ab1942fd": {
-    "latency": 117,
-    "country": "ES",
-    "time": 1777056847.199223,
+    "latency": 149,
+    "country": "IT",
+    "time": 1777101579.452251,
     "alive": true
   },
   "03cbe659f18e8279": {
@@ -4647,6 +4647,18 @@
     "latency": 453,
     "country": "EE",
     "time": 1777084103.431749,
+    "alive": true
+  },
+  "bb0b45ee96e80d26": {
+    "latency": 637,
+    "country": "IT",
+    "time": 1777101501.641612,
+    "alive": true
+  },
+  "fb4a4a17ee1d3bd3": {
+    "latency": 522,
+    "country": "AT",
+    "time": 1777101508.954458,
     "alive": true
   }
 }
