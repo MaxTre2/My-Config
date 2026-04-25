@@ -12,7 +12,7 @@ permissions:
 jobs:
   update-configs:
     runs-on: ubuntu-latest
-    timeout-minutes: 75          # ↑ запас: TCP(25мин) + xray(10мин) + bypass(8мин) + upload
+    timeout-minutes: 75
 
     steps:
       - name: Checkout repository
@@ -31,26 +31,32 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r source/requirements.txt
 
-      - name: Make xray executable
+      - name: Setup xray
         run: |
+          # Скачиваем xray под текущую архитектуру ubuntu-latest (amd64)
+          XRAY_VERSION="1.8.24"
+          XRAY_URL="https://github.com/XTLS/Xray-core/releases/download/v${XRAY_VERSION}/Xray-linux-64.zip"
+          echo "📥 Скачиваем xray v${XRAY_VERSION}..."
+          curl -fsSL "$XRAY_URL" -o /tmp/xray.zip
+          unzip -o /tmp/xray.zip xray -d /tmp/xray_bin/
+          mv /tmp/xray_bin/xray source/xray
           chmod +x source/xray
-          echo "✅ xray ready: $(source/xray version 2>&1 | head -1)"
+          echo "✅ xray готов: $(source/xray version | head -1)"
 
       - name: Run config updater
         env:
           MY_TOKEN: ${{ secrets.MY_TOKEN }}
           XRAY_BIN: "source/xray"
         run: |
-          cd source && python main.py --bypass-limit 250
+          cd source && python main.py --bypass-limit 150
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add source/xray
-          git add source/ByPassVpnLera.txt 2>/dev/null || true
           git add source/githubmirror/ 2>/dev/null || true
+          git add source/ByPassVpnLera.txt 2>/dev/null || true
           git add .
 
           if git diff --quiet && git diff --staged --quiet; then
