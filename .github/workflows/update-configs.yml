@@ -12,7 +12,7 @@ permissions:
 jobs:
   update-configs:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 75          # ↑ запас: TCP(25мин) + xray(10мин) + bypass(8мин) + upload
 
     steps:
       - name: Checkout repository
@@ -34,25 +34,25 @@ jobs:
       - name: Make xray executable
         run: |
           chmod +x source/xray
-          echo "✅ Права на source/xray установлены"
+          echo "✅ xray ready: $(source/xray version 2>&1 | head -1)"
 
       - name: Run config updater
         env:
           MY_TOKEN: ${{ secrets.MY_TOKEN }}
           XRAY_BIN: "source/xray"
         run: |
-          cd source && python main.py
+          cd source && python main.py --bypass-limit 250
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           git add source/xray
-          git add source/ByPassVpnLera.txt
-          git add source/githubmirror/
+          git add source/ByPassVpnLera.txt 2>/dev/null || true
+          git add source/githubmirror/ 2>/dev/null || true
           git add .
-          
+
           if git diff --quiet && git diff --staged --quiet; then
             echo "✅ Нет изменений для коммита"
           else
