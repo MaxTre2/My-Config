@@ -1,12 +1,3 @@
-"""
-main.py — MaxTre VPN Config Collector v4.0
-Категоризация конфигов по 4 приоритетам маскировки:
-  TIER-1: VLESS + REALITY + xtls-rprx-vision + TCP 443   (макс. маскировка)
-  TIER-2: VLESS + TLS + xtls-rprx-vision + HTTPUpgrade/gRPC 443 + CDN (скрыть IP)
-  TIER-3: VLESS + REALITY + xtls-rprx-vision + TCP 443   (баланс)
-  TIER-4: VLESS + TLS + SplitHTTP/xhttp 443 | REALITY уник. dest (жёсткий DPI)
-"""
-
 from __future__ import annotations
 
 import argparse
