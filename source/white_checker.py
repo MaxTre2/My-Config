@@ -1,13 +1,3 @@
-"""
-white_checker.py v3.0 — без зависаний
-Корень проблемы: xray-процессы на плохих конфигах зависали навсегда.
-Фиксы:
-  1. SIGKILL вместо SIGTERM — процесс убивается мгновенно
-  2. future.result(timeout=...) — каждый поток ограничен жёстким таймаутом
-  3. concurrent.futures.wait(timeout=...) — весь батч ограничен по времени
-  4. Глобальный таймаут батча через threading.Timer
-"""
-
 from __future__ import annotations
 
 import json
