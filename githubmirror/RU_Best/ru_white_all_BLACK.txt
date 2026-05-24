@@ -1,9 +1,14 @@
 #profile-title: base64:TWF4VHJlIOKAlCBWUE4gUlVTU0lBIEJMQUNLIOKaoO+4jw==
 #profile-update-interval: 6
 # MaxTre — VPN RUSSIA BLACK ⚠️
-# Обновлено: 06:30 | 24.05.2026 | Всего: 4
+# Обновлено: 16:23 | 24.05.2026 | Всего: 9
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at.jojack.ru&fp=chrome&security=reality&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=8dc4fccb2bcfc99d#%5B390ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-vless://769d6219-be8b-400d-9dd7-bbec4cca3593@nl.cometacloud.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=p6KS7wZNmfV-sLkfQxqw8rNPQcwQo14s2HiWOOJfOjs&security=reality&sid=04&sni=www.google.com&type=tcp#%5B384ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-vless://931c3d51-fa5a-4d20-9b92-df8c495292c7@d.lv-cdn.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=fHNZm9NrW_3Bp9xzCZhhoPuL4DFLqfaPu-uBhPE6dW4&sid=7a3f9e2b1c8d4f6a&sni=d.lv-cdn.ru&spx=/#%5B540ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nyc.cdn.stun.su:443?security=reality&encryption=none&pbk=u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nyc.cdn.stun.su&sid=1c8eebcb20f6d0ce#%5B162ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+#%5B279ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nyc.cdn.stun.su:443?security=reality&encryption=none&pbk=u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nyc.cdn.stun.su&sid=1c8eebcb20f6d0ce#%5B171ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+#%5B762ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://3d2491fb-4749-4386-9374-52feef49082c@178.154.204.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-4-3.nodes.ac&pbk=ljUVISw0FlRCXDz6xRTVnmms_IfVrIFLJ5bg81MDNQY&sid=7171871f66279d10#%5B316ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+#%5B549ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://769d6219-be8b-400d-9dd7-bbec4cca3593@nl.cometacloud.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=p6KS7wZNmfV-sLkfQxqw8rNPQcwQo14s2HiWOOJfOjs&security=reality&sid=04&sni=www.google.com&type=tcp#%5B532ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://60d0630c-8ac4-436d-ad2c-b798b63e1c69@pl.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.nodes.rocketnetwork.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&type=tcp&headerType=none#%5B325ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://e74089d6-5ab5-4cfb-b53c-df3ead4a8baa@de1.noesissite.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4cLAvQZIO8snHJPdwwvg48zaCZw4TJEs12oH5qID8Do&security=reality&sid=722cdea6384826bc&sni=www.microsoft.com&type=tcp#%5B888ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://dad97768-187b-40be-b423-2f312f740085@jp.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=jp.nodes.rocketnetwork.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#%5B1543ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
