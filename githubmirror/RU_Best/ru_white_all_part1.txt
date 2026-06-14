@@ -2,20 +2,8 @@
 #profile-update-interval: 6
 # MaxTre — RU ALL 🇷🇺 Part 1
 
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@de-cdn.ru:443?security=reality&encryption=none&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de-cdn.ru&sid=f7d0420b8ab26060#%5B207ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@se-cdn.ru:443?security=reality&encryption=none&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=se-cdn.ru&sid=2d6d073dc88f22a8#%5B243ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#%5B655ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-#%5B191ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B388ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B404ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B421ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B426ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B510ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B516ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B533ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B567ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B595ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B614ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B634ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?security=reality&encryption=none&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%5B1992ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-#%5B2021ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+#%5B207ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+#%5B243ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#%5B1643ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+#%5B655ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+#%5B1992ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
