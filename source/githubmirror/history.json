@@ -322,9 +322,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "df40a5ed85378615": {
-    "latency": 426,
+    "latency": 1432,
     "country": "UNKNOWN",
-    "time": 1783565479.870914,
+    "time": 1783626230.435862,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2107,9 +2107,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "a72d03d831edf183": {
-    "latency": 269,
+    "latency": 254,
     "country": "UNKNOWN",
-    "time": 1783565480.712169,
+    "time": 1783626228.519973,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3773,9 +3773,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "b57159e99d481d11": {
-    "latency": 202,
+    "latency": 185,
     "country": "UNKNOWN",
-    "time": 1783565477.395203,
+    "time": 1783626228.243443,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3815,9 +3815,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "fe365b32b048fc32": {
-    "latency": 225,
+    "latency": 196,
     "country": "UNKNOWN",
-    "time": 1783538574.759286,
+    "time": 1783626228.509109,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3965,6 +3965,125 @@
     "latency": 193,
     "country": "UNKNOWN",
     "time": 1783608932.984655,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "8ee9f667865de695": {
+    "latency": 149,
+    "country": "UNKNOWN",
+    "time": 1783626228.209272,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "eb184b1104479b75": {
+    "latency": 295,
+    "country": "UNKNOWN",
+    "time": 1783626228.355841,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "66680afa903a5dee": {
+    "latency": 350,
+    "country": "UNKNOWN",
+    "time": 1783626228.41043,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "6f0c427dd70ef6d1": {
+    "latency": 356,
+    "country": "UNKNOWN",
+    "time": 1783626228.416046,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "a64978a9f564329d": {
+    "latency": 110,
+    "country": "UNKNOWN",
+    "time": 1783626228.426256,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "69e118097de96dd3": {
+    "latency": 251,
+    "country": "UNKNOWN",
+    "time": 1783626228.493091,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "204384e72509f0db": {
+    "latency": 166,
+    "country": "UNKNOWN",
+    "time": 1783626228.526008,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "59ed3240fe1321fa": {
+    "latency": 472,
+    "country": "UNKNOWN",
+    "time": 1783626228.686359,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "a4b454f3298fde7d": {
+    "latency": 328,
+    "country": "UNKNOWN",
+    "time": 1783626228.733648,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "e1c2bf10dc56ea5a": {
+    "latency": 288,
+    "country": "UNKNOWN",
+    "time": 1783626228.772969,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "46a4afc4bd166669": {
+    "latency": 222,
+    "country": "UNKNOWN",
+    "time": 1783626228.999531,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "4f97c27aa9ac1d26": {
+    "latency": 185,
+    "country": "UNKNOWN",
+    "time": 1783626229.117085,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "0f2a8a835367323b": {
+    "latency": 243,
+    "country": "UNKNOWN",
+    "time": 1783626229.217475,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "d977811762dbe9b4": {
+    "latency": 644,
+    "country": "UNKNOWN",
+    "time": 1783626229.462596,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "c2d4a845ac6e7a75": {
+    "latency": 1705,
+    "country": "UNKNOWN",
+    "time": 1783626229.947395,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "41ddf15aaab194a3": {
+    "latency": 435,
+    "country": "UNKNOWN",
+    "time": 1783626230.64285,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "4df2791f91daf4b9": {
+    "latency": 92,
+    "country": "UNKNOWN",
+    "time": 1783626234.713674,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   }
