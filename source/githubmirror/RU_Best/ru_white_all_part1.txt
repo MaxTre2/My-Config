@@ -2,19 +2,9 @@
 #profile-update-interval: 6
 # MaxTre — RU ALL 🇷🇺 Part 1
 
-#%5B269ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B329ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B354ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B366ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B381ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B382ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B408ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B415ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B455ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B478ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B518ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B525ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B568ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B609ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B625ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-#%5B655ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.110.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=nll.scroogethebest.com&type=tcp#%5B173ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://7e6d3393-bb84-45c7-9eef-35de95805b7e@142.91.108.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.api-yandex.net&fp=chrome&pbk=IOO3P6BDqBjUA0gB4tgpvxrXL6Fit88QgpJ1y6GYyz0&sid=0f4dacf88202e05f&type=tcp&headerType=none#%5B323ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-01.gni-daed.ru&fp=chrome&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4&type=tcp&headerType=none#%5B387ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://497631c4-a1a4-45ff-a86a-f42873473bb6@kz.quattro-tech.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%5B506ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://e708dd75-cf26-4a45-aba3-45da05615910@api.yandex-cloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.yandex-cloud.org&fp=safari&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&headerType=none#%5B539ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#%5B577ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
