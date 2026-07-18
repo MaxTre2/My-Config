@@ -49,9 +49,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "cae7c2c7ce3141eb": {
-    "latency": 28,
+    "latency": 147,
     "country": "UNKNOWN",
-    "time": 1784341290.937562,
+    "time": 1784401314.764377,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -248,13 +248,6 @@
     "latency": 334,
     "country": "UNKNOWN",
     "time": 1784380279.703246,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
-  "5bea2afc1d719ad2": {
-    "latency": 167,
-    "country": "UNKNOWN",
-    "time": 1784209628.842758,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -532,9 +525,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "8c8ad3156db48480": {
-    "latency": 389,
+    "latency": 497,
     "country": "UNKNOWN",
-    "time": 1784360806.80177,
+    "time": 1784401314.712162,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -546,9 +539,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "a8f5bbaad82af89c": {
-    "latency": 1122,
+    "latency": 617,
     "country": "RU",
-    "time": 1784360809.424734,
+    "time": 1784401321.312643,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -839,31 +832,24 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "f5330736d44c6abb": {
-    "latency": 295,
-    "country": "UNKNOWN",
-    "time": 1784209624.939443,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "9c63f8abbfc38519": {
-    "latency": 278,
+    "latency": 382,
     "country": "UNKNOWN",
-    "time": 1784360810.050783,
+    "time": 1784401323.110217,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "e68f8f21b1b10dae": {
-    "latency": 286,
+    "latency": 377,
     "country": "UNKNOWN",
-    "time": 1784360810.100057,
+    "time": 1784401323.49115,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "d32f1f04adcaefe0": {
-    "latency": 254,
+    "latency": 1413,
     "country": "UNKNOWN",
-    "time": 1784360810.30917,
+    "time": 1784401324.908391,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -882,9 +868,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "4f71789298b51459": {
-    "latency": 540,
+    "latency": 659,
     "country": "UNKNOWN",
-    "time": 1784360806.950977,
+    "time": 1784401314.822148,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -951,24 +937,17 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "d9295695ef13bd92": {
-    "latency": 505,
-    "country": "UNKNOWN",
-    "time": 1784209629.243451,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "147ba9f1bb0878ed": {
-    "latency": 257,
+    "latency": 601,
     "country": "UNKNOWN",
-    "time": 1784341298.531937,
+    "time": 1784401317.71607,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "57bf8de399603585": {
-    "latency": 166,
+    "latency": 291,
     "country": "UNKNOWN",
-    "time": 1784341298.601714,
+    "time": 1784401319.471302,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -1015,9 +994,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "6762d61a6cc9d5fa": {
-    "latency": 358,
+    "latency": 369,
     "country": "UNKNOWN",
-    "time": 1784360806.766752,
+    "time": 1784401314.528383,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -1057,9 +1036,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "2031ea89b7c14de5": {
-    "latency": 232,
+    "latency": 370,
     "country": "UNKNOWN",
-    "time": 1784360806.880553,
+    "time": 1784401314.860358,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -1071,9 +1050,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "367cf53faaf4814e": {
-    "latency": 250,
+    "latency": 361,
     "country": "UNKNOWN",
-    "time": 1784360808.824079,
+    "time": 1784401322.079212,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -1116,13 +1095,6 @@
     "latency": 277,
     "country": "UNKNOWN",
     "time": 1784255450.146444,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
-  "cb6ebe52ce6481ea": {
-    "latency": 39,
-    "country": "UNKNOWN",
-    "time": 1784209626.650353,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2078,13 +2050,6 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "7e0182aa3fef0f19": {
-    "latency": 448,
-    "country": "UNKNOWN",
-    "time": 1784209624.405572,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "fb23e3a571725a7d": {
     "latency": 371,
     "country": "UNKNOWN",
@@ -2197,13 +2162,6 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "7ca3b14120bbc7e8": {
-    "latency": 2850,
-    "country": "UNKNOWN",
-    "time": 1784209626.607765,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "9c6419222a4e3966": {
     "latency": 189,
     "country": "UNKNOWN",
@@ -2212,16 +2170,16 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "9cef28754a1844c8": {
-    "latency": 276,
+    "latency": 398,
     "country": "UNKNOWN",
-    "time": 1784341290.008301,
+    "time": 1784401314.559202,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "2af2fe9fdf79ecb2": {
-    "latency": 309,
+    "latency": 967,
     "country": "UNKNOWN",
-    "time": 1784341290.220669,
+    "time": 1784401315.466698,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2240,9 +2198,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "3cb5ba5bb436622b": {
-    "latency": 251,
+    "latency": 369,
     "country": "UNKNOWN",
-    "time": 1784341291.090412,
+    "time": 1784401320.274584,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2254,16 +2212,16 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "0e70ff21d9133b55": {
-    "latency": 544,
+    "latency": 628,
     "country": "RU",
-    "time": 1784341297.89076,
+    "time": 1784401317.028704,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "6e67fb82f69c4e9c": {
-    "latency": 159,
+    "latency": 476,
     "country": "RU",
-    "time": 1784341291.624655,
+    "time": 1784401317.111231,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2345,9 +2303,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "eadb7d475d018250": {
-    "latency": 269,
+    "latency": 378,
     "country": "UNKNOWN",
-    "time": 1784341298.760731,
+    "time": 1784401317.51663,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2359,30 +2317,30 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "a532c9284c8d882c": {
-    "latency": 418,
+    "latency": 636,
     "country": "UNKNOWN",
-    "time": 1784341300.522346,
+    "time": 1784401320.091948,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "cea3122a81a47e48": {
-    "latency": 368,
+    "latency": 425,
     "country": "UNKNOWN",
-    "time": 1784341300.472055,
+    "time": 1784401319.900789,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "6d350a5b19fcf149": {
-    "latency": 611,
+    "latency": 701,
     "country": "RU",
-    "time": 1784341300.711351,
+    "time": 1784401321.452041,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "b20fbd63669283b7": {
-    "latency": 220,
+    "latency": 476,
     "country": "RU",
-    "time": 1784360808.570585,
+    "time": 1784401321.932245,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2394,16 +2352,16 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "83072e5c16ae3d66": {
-    "latency": 860,
+    "latency": 711,
     "country": "RU",
-    "time": 1784360807.689722,
+    "time": 1784401315.659305,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "efc62d6e1d0312d2": {
-    "latency": 451,
+    "latency": 334,
     "country": "UNKNOWN",
-    "time": 1784360809.278974,
+    "time": 1784401322.417238,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2435,13 +2393,6 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "ecff2fba5ca0cb6f": {
-    "latency": 664,
-    "country": "UNKNOWN",
-    "time": 1784209623.567174,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "125332b749796e96": {
     "latency": 257,
     "country": "UNKNOWN",
@@ -2457,44 +2408,44 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "9663987ac0c8e7cb": {
-    "latency": 197,
+    "latency": 315,
     "country": "UNKNOWN",
-    "time": 1784341298.838198,
+    "time": 1784401318.035764,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "711d23f93be628f9": {
-    "latency": 196,
+    "latency": 331,
     "country": "UNKNOWN",
-    "time": 1784341298.731649,
+    "time": 1784401317.820287,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "1e11daea0d075186": {
-    "latency": 196,
+    "latency": 330,
     "country": "UNKNOWN",
-    "time": 1784341298.989484,
+    "time": 1784401318.370474,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "1fc70b58cd8f4ce5": {
-    "latency": 201,
+    "latency": 335,
     "country": "UNKNOWN",
-    "time": 1784341298.806591,
+    "time": 1784401317.855445,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "87c6883467435abd": {
-    "latency": 199,
+    "latency": 322,
     "country": "UNKNOWN",
-    "time": 1784341298.93474,
+    "time": 1784401318.143269,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "e6e39399a825628a": {
-    "latency": 196,
+    "latency": 323,
     "country": "UNKNOWN",
-    "time": 1784341298.961051,
+    "time": 1784401318.182277,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2506,16 +2457,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "a8798e31e14d9bf5": {
-    "latency": 198,
+    "latency": 326,
     "country": "UNKNOWN",
-    "time": 1784341299.008847,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
-  "9d6987787bf3fda0": {
-    "latency": 379,
-    "country": "UNKNOWN",
-    "time": 1784209624.611712,
+    "time": 1784401318.474338,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2540,24 +2484,10 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "808b40eae1f7ba79": {
-    "latency": 392,
-    "country": "UNKNOWN",
-    "time": 1784209624.9352,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "b1ed6d87f2bfd7d7": {
     "latency": 458,
     "country": "UNKNOWN",
     "time": 1784380281.427008,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
-  "8b92e83bdf4e77b7": {
-    "latency": 368,
-    "country": "UNKNOWN",
-    "time": 1784209630.674845,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2569,9 +2499,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "1bada3f835d90ae9": {
-    "latency": 195,
+    "latency": 307,
     "country": "UNKNOWN",
-    "time": 1784360807.224763,
+    "time": 1784401315.654205,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2611,9 +2541,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "a21fca08431d1cf6": {
-    "latency": 1049,
+    "latency": 341,
     "country": "UNKNOWN",
-    "time": 1784360807.634551,
+    "time": 1784401314.503326,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2624,13 +2554,6 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "59fa07011b020fae": {
-    "latency": 380,
-    "country": "UNKNOWN",
-    "time": 1784209624.396384,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "98d6e5fad12874ea": {
     "latency": 300,
     "country": "UNKNOWN",
@@ -2638,17 +2561,10 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "7d07db61b12ac335": {
-    "latency": 280,
-    "country": "UNKNOWN",
-    "time": 1784209624.966192,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "b3a6dbde1b610743": {
-    "latency": 1796,
+    "latency": 486,
     "country": "RU",
-    "time": 1784360810.566471,
+    "time": 1784401322.422,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2660,16 +2576,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "6575c7a6cf9c36cd": {
-    "latency": 262,
+    "latency": 361,
     "country": "UNKNOWN",
-    "time": 1784360807.987212,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
-  "d956617d575cc116": {
-    "latency": 455,
-    "country": "UNKNOWN",
-    "time": 1784209633.780249,
+    "time": 1784401316.909832,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2716,9 +2625,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "57ab2e9628c1324f": {
-    "latency": 210,
+    "latency": 344,
     "country": "UNKNOWN",
-    "time": 1784360806.612948,
+    "time": 1784401314.499783,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2757,31 +2666,10 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "4686d30c6152fd63": {
-    "latency": 383,
-    "country": "UNKNOWN",
-    "time": 1784209624.310035,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
-  "613fc16531b446c4": {
-    "latency": 490,
-    "country": "UNKNOWN",
-    "time": 1784209625.5439,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "346f65e2beea34ef": {
     "latency": 320,
     "country": "UNKNOWN",
     "time": 1784380281.577509,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
-  "aa55b930d7e8381f": {
-    "latency": 198,
-    "country": "UNKNOWN",
-    "time": 1784209630.707143,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2792,17 +2680,10 @@
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
-  "eaece6919ffb16be": {
-    "latency": 365,
-    "country": "UNKNOWN",
-    "time": 1784209631.46344,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
   "2781cdbe7ccc93d4": {
-    "latency": 321,
+    "latency": 467,
     "country": "UNKNOWN",
-    "time": 1784341300.797172,
+    "time": 1784401320.746193,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2828,9 +2709,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "bfa77f0e14fe5d30": {
-    "latency": 394,
+    "latency": 805,
     "country": "UNKNOWN",
-    "time": 1784341290.474218,
+    "time": 1784401315.261014,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2856,9 +2737,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "2d6a42d1fa86e613": {
-    "latency": 259,
+    "latency": 397,
     "country": "UNKNOWN",
-    "time": 1784341300.786084,
+    "time": 1784401321.713977,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2870,9 +2751,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "b1e070d082fa7506": {
-    "latency": 403,
+    "latency": 374,
     "country": "UNKNOWN",
-    "time": 1784360814.117048,
+    "time": 1784401314.536797,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2912,9 +2793,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "f77d5dd760420355": {
-    "latency": 255,
+    "latency": 358,
     "country": "UNKNOWN",
-    "time": 1784255449.85517,
+    "time": 1784401315.793473,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -2954,30 +2835,30 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "2da8d964bb567d6a": {
-    "latency": 42,
+    "latency": 102,
     "country": "UNKNOWN",
-    "time": 1784341298.273717,
+    "time": 1784401317.134719,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "21e3809296f2d26d": {
-    "latency": 461,
+    "latency": 1197,
     "country": "RU",
-    "time": 1784341299.400064,
+    "time": 1784401319.45135,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "1149080ef607f821": {
-    "latency": 713,
+    "latency": 779,
     "country": "RU",
-    "time": 1784360811.642084,
+    "time": 1784401315.282347,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "6b7c6acbd4b0d0f5": {
-    "latency": 129,
+    "latency": 24,
     "country": "UNKNOWN",
-    "time": 1784341289.139119,
+    "time": 1784401320.217463,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3017,9 +2898,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "42ec83e95ce70803": {
-    "latency": 223,
+    "latency": 325,
     "country": "UNKNOWN",
-    "time": 1784360806.620732,
+    "time": 1784401314.47277,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3122,9 +3003,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "732c2a45972e4952": {
-    "latency": 215,
+    "latency": 286,
     "country": "UNKNOWN",
-    "time": 1784294655.712807,
+    "time": 1784401314.451416,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3164,9 +3045,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "a849167579dd1cb6": {
-    "latency": 2808,
+    "latency": 408,
     "country": "UNKNOWN",
-    "time": 1784341299.58521,
+    "time": 1784401315.124585,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3206,9 +3087,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "5796b750e9faa78b": {
-    "latency": 431,
+    "latency": 629,
     "country": "UNKNOWN",
-    "time": 1784341299.393298,
+    "time": 1784401319.003801,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3220,9 +3101,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "c2eab257f385067b": {
-    "latency": 538,
+    "latency": 572,
     "country": "UNKNOWN",
-    "time": 1784341298.789272,
+    "time": 1784401317.48574,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3234,9 +3115,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "958b0cf5c73ca3e2": {
-    "latency": 382,
+    "latency": 517,
     "country": "UNKNOWN",
-    "time": 1784360809.810142,
+    "time": 1784401314.680182,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3325,37 +3206,37 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "2478133a215b08f2": {
-    "latency": 409,
+    "latency": 701,
     "country": "UNKNOWN",
-    "time": 1784341299.378711,
+    "time": 1784401319.175972,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "4b4b12d8d0af7abd": {
-    "latency": 496,
+    "latency": 544,
     "country": "UNKNOWN",
-    "time": 1784341299.489777,
+    "time": 1784401319.411848,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "c62a1b83d391a218": {
-    "latency": 195,
+    "latency": 330,
     "country": "UNKNOWN",
-    "time": 1784360806.596042,
+    "time": 1784401314.483171,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "cba22a71aea5da3c": {
-    "latency": 231,
+    "latency": 346,
     "country": "UNKNOWN",
-    "time": 1784360806.641591,
+    "time": 1784401314.510333,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "470bee6fb2ab2975": {
-    "latency": 351,
+    "latency": 357,
     "country": "UNKNOWN",
-    "time": 1784360806.762761,
+    "time": 1784401314.520927,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -3379,5 +3260,124 @@
     "time": 1784380288.870508,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
+  },
+  "595047a9650f979b": {
+    "latency": 59,
+    "country": "UNKNOWN",
+    "time": 1784401314.210871,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "3f0c922193f9f618": {
+    "latency": 312,
+    "country": "UNKNOWN",
+    "time": 1784401314.464738,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "1e907d50d9425b18": {
+    "latency": 315,
+    "country": "UNKNOWN",
+    "time": 1784401314.468181,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "9c881ac808923527": {
+    "latency": 339,
+    "country": "UNKNOWN",
+    "time": 1784401314.490382,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "d53945b63defef78": {
+    "latency": 337,
+    "country": "UNKNOWN",
+    "time": 1784401314.494954,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "182979a4eb39879b": {
+    "latency": 332,
+    "country": "UNKNOWN",
+    "time": 1784401314.495135,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "eecd26ae2966c76e": {
+    "latency": 351,
+    "country": "UNKNOWN",
+    "time": 1784401314.503278,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "c624b3728433ae38": {
+    "latency": 295,
+    "country": "UNKNOWN",
+    "time": 1784401314.802398,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "dc630e6dc14e55da": {
+    "latency": 422,
+    "country": "UNKNOWN",
+    "time": 1784401314.943365,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "f16afbedc9de06bf": {
+    "latency": 1187,
+    "country": "UNKNOWN",
+    "time": 1784401315.342518,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "3cd406ec36da4566": {
+    "latency": 299,
+    "country": "UNKNOWN",
+    "time": 1784401322.724512,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "7f22f346e2ea38ed": {
+    "latency": 9,
+    "country": "UNKNOWN",
+    "time": 1784401326.23662,
+    "alive": true,
+    "tier": "TIER4_DPI_RESISTANT"
+  },
+  "3b40690290f99c9b": {
+    "latency": 8,
+    "country": "UNKNOWN",
+    "time": 1784401326.236697,
+    "alive": true,
+    "tier": "TIER4_DPI_RESISTANT"
+  },
+  "fc1b51d859f8eb14": {
+    "latency": 13,
+    "country": "UNKNOWN",
+    "time": 1784401326.236741,
+    "alive": true,
+    "tier": "TIER4_DPI_RESISTANT"
+  },
+  "42062d1f520ce231": {
+    "latency": 9,
+    "country": "UNKNOWN",
+    "time": 1784401326.236996,
+    "alive": true,
+    "tier": "TIER4_DPI_RESISTANT"
+  },
+  "8a255aee3fa3b7c9": {
+    "latency": 10,
+    "country": "UNKNOWN",
+    "time": 1784401326.237104,
+    "alive": true,
+    "tier": "TIER4_DPI_RESISTANT"
+  },
+  "8ca30cd283413832": {
+    "latency": 17,
+    "country": "UNKNOWN",
+    "time": 1784401326.237144,
+    "alive": true,
+    "tier": "TIER4_DPI_RESISTANT"
   }
 }
