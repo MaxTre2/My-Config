@@ -1,8 +1,8 @@
 {
   "dc35c787cb84f543": {
-    "latency": 786,
+    "latency": 55,
     "country": "UNKNOWN",
-    "time": 1788404404.29299,
+    "time": 1788450520.692284,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -24,13 +24,6 @@
     "latency": 336,
     "country": "UNKNOWN",
     "time": 1788432114.174688,
-    "alive": true,
-    "tier": "TIER1_REALITY_VISION"
-  },
-  "70bc3a817c2e5cbc": {
-    "latency": 267,
-    "country": "UNKNOWN",
-    "time": 1788260874.01252,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -91,16 +84,16 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "946e6b2906194ae2": {
-    "latency": 282,
+    "latency": 392,
     "country": "UNKNOWN",
-    "time": 1788404403.930059,
+    "time": 1788450521.246072,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "918d2e934e246284": {
-    "latency": 207,
+    "latency": 156,
     "country": "UNKNOWN",
-    "time": 1788404403.744117,
+    "time": 1788450520.849586,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -196,9 +189,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "a5dc032dfb33888d": {
-    "latency": 217,
+    "latency": 343,
     "country": "UNKNOWN",
-    "time": 1788404409.749371,
+    "time": 1788450519.707559,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -343,9 +336,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "b5074f1fc13a32d1": {
-    "latency": 387,
+    "latency": 441,
     "country": "UNKNOWN",
-    "time": 1788404403.006407,
+    "time": 1788450512.789509,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -357,9 +350,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "23805e6caaa87bc9": {
-    "latency": 220,
+    "latency": 346,
     "country": "UNKNOWN",
-    "time": 1788404403.65039,
+    "time": 1788450520.4205,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -420,9 +413,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "0e218b327454868c": {
-    "latency": 153,
+    "latency": 173,
     "country": "UNKNOWN",
-    "time": 1788404403.533232,
+    "time": 1788450519.885775,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
