@@ -91,9 +91,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "745a69b3c734c9d5": {
-    "latency": 1719,
+    "latency": 1473,
     "country": "UNKNOWN",
-    "time": 1788706615.441801,
+    "time": 1788801390.676636,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -231,9 +231,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "286da7afbfb82e94": {
-    "latency": 382,
+    "latency": 371,
     "country": "UNKNOWN",
-    "time": 1788749898.922721,
+    "time": 1788801389.199754,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -280,9 +280,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "942184ea16ccc2db": {
-    "latency": 277,
+    "latency": 316,
     "country": "UNKNOWN",
-    "time": 1788749892.667308,
+    "time": 1788801388.451596,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -357,9 +357,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "41dce1923275183d": {
-    "latency": 105,
+    "latency": 1234,
     "country": "UNKNOWN",
-    "time": 1788749898.537126,
+    "time": 1788801389.367341,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -413,9 +413,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "99c24b7e0a901c5e": {
-    "latency": 158,
+    "latency": 149,
     "country": "UNKNOWN",
-    "time": 1788749893.167587,
+    "time": 1788801388.522085,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -465,6 +465,27 @@
     "latency": 281,
     "country": "UNKNOWN",
     "time": 1788781038.268283,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "8bbde295d3372457": {
+    "latency": 244,
+    "country": "UNKNOWN",
+    "time": 1788801394.631208,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "57ab2e9628c1324f": {
+    "latency": 263,
+    "country": "UNKNOWN",
+    "time": 1788801394.898953,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "69d42e528976aad8": {
+    "latency": 112,
+    "country": "UNKNOWN",
+    "time": 1788801395.011748,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   }
