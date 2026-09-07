@@ -2,16 +2,11 @@
 #profile-update-interval: 3
 # MaxTre — VPN Bypass (WHITE полная проверка)
 # Проверено: TCP+TLS/REALITY/WS/XHTTP/XTLS-Vision
-# Лимит: 12 | Рабочих: 10
-# Обновлено: 05:58 | 07.09.2026
+# Лимит: 6 | Рабочих: 5
+# Обновлено: 20:16 | 07.09.2026
 
-vless://6957e510-ed50-4b4d-839f-d4378b72d71d@87.242.95.198:4443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&security=reality&sid=1b6af9590ac47701&sni=fr-c63e107f41.sishka.network&type=raw#%5B159ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
-vless://e1fc86f5-6481-4cb0-bb72-d1bb45859c38@213.219.214.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PL09r78ubjFaOILv5x6HPsCZeTdwhlRb3tuDY5vASwQ&security=reality&sni=yandex.ru&type=raw#%5B305ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
-vless://e1fc86f5-6481-4cb0-bb72-d1bb45859c38@185.86.144.101:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=raw#%5B327ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
-vless://0465459c-fa03-4910-aa9e-96b0f92fa9cf@217.16.27.113:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=eh.vk.com&type=raw#%5B498ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
-vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?encryption=none&host=vk.com&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=safari#%5B331ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://1291195a-ec3b-45bf-9381-9e2fce710813@37.18.14.168:2053?type=xhttp&headerType=none&security=tls&encryption=none&sni=9micenasralnakover.net&path=%2Fapi%2Fv1%2Fupload&host=9micenasralnakover.net&fp=chrome#%5B149ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&security=reality&sid=1a2b3c4d5e6f7a8b&sni=vk.ru&type=raw#%5B796ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&path=%2Fv1&security=none&type=ws#%5B335ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://9737cc16-7266-45ce-94d9-6e05a45e0b9c@80.249.144.234:443?flow=xtls-rprx-vision&pbk=F0qiIYc2oh4Y7T_JM6WPIk_FbL79iOWBoIsmJGFuqyY&security=reality&sid=4e33be95ff68e7fc&sni=ch.nightproducts.ru&type=tcp&fp=chrome#%5B1404ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#%5B1302ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?host=vk.com&mode=stream-one&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&sid=864fbb122f15b43d&sni=ok.ru&spx=%2F&type=xhttp&fp=chrome#%5B154ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@95.129.236.124:443?encryption=none&fp=safari&path=%2Fgateway%2Fv1%2Fws%2F6d50d81f0b49c137b1564bce4760eaee&security=tls&sni=game-booster.sowt.app&type=ws#%5B198ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&path=%2Fv1&security=none&type=ws#%5B310ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#%5B763ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://56cba26b-efcb-40d0-838a-d66df2dd516f@83.147.255.88:443?security=tls&sni=sni.868001.xyz&type=ws&headerType=none&host=sni.868001.xyz&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3D82bc2875-3fee-49d1-ab29-e108a7b1e5f9&fp=chrome#%5B1376ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
