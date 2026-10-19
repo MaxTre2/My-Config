@@ -2,11 +2,10 @@
 #profile-update-interval: 3
 # MaxTre — VPN Bypass (WHITE полная проверка)
 # Проверено: TCP+TLS/REALITY/WS/XHTTP/XTLS-Vision
-# Лимит: 9 | Рабочих: 5
-# Обновлено: 15:10 | 19.10.2026
+# Лимит: 6 | Рабочих: 4
+# Обновлено: 01:00 | 20.10.2026
 
-vless://e667f5c7-6b38-48ef-ab89-40519713afb0@78.24.218.228:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#%5B189ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://e667f5c7-6b38-48ef-ab89-40519713afb0@us.90909.club:2096?pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#%5B196ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://4c346148-ece9-487a-bffb-ba5a399b2d71@188.225.83.133:443?encryption=none&fp=chrome&mode=gun&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&security=reality&sid=a1b2c3d4e5f6a7b8&type=grpc#%5B369ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.91.55.86:443/?type=grpc&encryption=none&flow=&serviceName=northfeed&security=tls&sni=ru-auto-02.10media.top&fp=safari#%5B1100ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@m-vruvc.mvpstr.com:443?security=reality&encryption=none&pbk=ZtAlhN1pU4MTmv4KaX9J_5_8KWnwy9IOnc-BLzIf234&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m-vruvc.mvpstr.com&sid=11ac376e18d20343&fp=chrome#%5B2483ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://b1097a54-29de-4014-962c-c835d96e8409@109.120.150.245:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.rutube.ru&pbk=iywsgYk8P1mWMu9xBjwpJQnBNGSH43RKSaaRVVv75S0&sid=c342eb1745bbaefd&spx=%2F&fp=chrome#%5B313ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
+vless://e667f5c7-6b38-48ef-ab89-40519713afb0@78.24.218.228:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#%5B160ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#%5B198ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@185.141.227.223:443?encryption=none&fp=safari&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F&security=tls&sni=z1q3pv4g78.rucdncomp.pro&type=ws#%5B1623ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
