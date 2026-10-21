@@ -2,10 +2,11 @@
 #profile-update-interval: 3
 # MaxTre — VPN Bypass (WHITE полная проверка)
 # Проверено: TCP+TLS/REALITY/WS/XHTTP/XTLS-Vision
-# Лимит: 4 | Рабочих: 4
-# Обновлено: 19:38 | 21.10.2026
+# Лимит: 5 | Рабочих: 5
+# Обновлено: 00:16 | 22.10.2026
 
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=edge&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp#%5B379ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv1%2Fupload&host=summerculture.net&sni=summerculture.net&alpn=h2%2Chttp%2F1.1&headerType=none&mode=auto&fp=chrome#%5B195ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://6a2aff19-ff1f-4a13-96c8-a4d8986a9699@37.18.14.43:8443?alpn=http%2F1.1%2Ch2&encryption=none&extra=null&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp&fp=chrome#%5B196ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?encryption=none&security=tls&sni=summerculture.net&alpn=h2%2Chttp%2F1.1&type=xhttp&host=summerculture.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=chrome#%5B266ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://0d55ea1d-5587-4c17-9e85-3ee9b279aa8f@213.171.24.54:8643?encryption=none&security=reality&sni=travel.yandex.ru&flow=xtls-rprx-vision&pbk=kmLlM6u12bptp7icPOL3fkUJucwvYTRVMkXz2AGAN2A&sid=ca6703afd42cadcd&fp=edge#%5B159ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=safari#%5B251ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://4c346148-ece9-487a-bffb-ba5a399b2d71@188.225.83.133:443?encryption=none&fp=chrome&mode=gun&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&security=reality&sid=a1b2c3d4e5f6a7b8&type=grpc#%5B358ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv1%2Fupload&host=summerculture.net&sni=summerculture.net&alpn=h2%2C%2Bhttp%2F1.1&headerType=none&mode=auto&fp=chrome#%5B145ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@summerculture.net:2053?encryption=none&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp&fp=safari#%5B193ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
