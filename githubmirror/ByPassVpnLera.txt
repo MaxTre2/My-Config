@@ -2,11 +2,14 @@
 #profile-update-interval: 3
 # MaxTre — VPN Bypass (WHITE полная проверка)
 # Проверено: TCP+TLS/REALITY/WS/XHTTP/XTLS-Vision
-# Лимит: 7 | Рабочих: 5
-# Обновлено: 14:02 | 23.10.2026
+# Лимит: 8 | Рабочих: 8
+# Обновлено: 00:00 | 24.10.2026
 
-vless://deba253c-fceb-4efb-b1b8-f7295ef2ec36@45.142.44.98:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=assets.blogger.com&pbk=1ZjjxRjaJlzXQOupvNZ5pyK5xbaZGskjC6HkXGzMjys&sid=1ec515b87b68eab9&fp=edge#%5B118ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
-vless://deba253c-fceb-4efb-b1b8-f7295ef2ec36@45.142.44.98:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=assets.blogger.com&pbk=1ZjjxRjaJlzXQOupvNZ5pyK5xbaZGskjC6HkXGzMjys&sid=1ec515b87b68eab9&fp=chrome#%5B118ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=chrome#%5B235ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://a443d7bf-f506-46ce-b64d-cf8891c0a9f7@217.19.122.156:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F&security=tls&sni=z1q3pv4g78.rucdncomp.pro&type=ws#%5B355ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@217.19.122.156:443?encryption=none&fp=safari&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F&security=tls&sni=z1q3pv4g78.rucdncomp.pro&type=ws#%5B368ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://c9d6f7a6-41d7-4bdd-bf3f-7415cc9d7f90@200.169.184.168:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=net.formatgo.ru&pbk=QnaizqXrXA0e4XihP_5Nf1z1aOOf0obBoyJ8QY_03kw&sid=9d0e1b6bf9c5eddb&fp=edge#%5B146ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://47ccdaf3-31b0-4945-8a3d-0698063b3127@217.19.122.194:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=GyYuIjccJJRQZM72MGdBQEwGwGR9e0UMNlJxw0sQR2M&security=reality&sid=38560e0003d69843&sni=bm1.hat.onl&type=raw#%5B442ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=safari#%5B570ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#%5B720ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://a443d7bf-f506-46ce-b64d-cf8891c0a9f7@217.19.122.156:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F&security=tls&sni=z1q3pv4g78.rucdncomp.pro&type=ws#%5B694ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@217.19.122.156:443?encryption=none&fp=safari&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F&security=tls&sni=z1q3pv4g78.rucdncomp.pro&type=ws#%5B733ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=safari#%5B2044ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@84.201.170.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&security=reality&sid=7760b69926f2e507&sni=ads.x5.ru&type=raw#%5B2326ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
