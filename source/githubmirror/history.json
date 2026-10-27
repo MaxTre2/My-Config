@@ -21,9 +21,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "9a175544f287a06e": {
-    "latency": 112,
+    "latency": 62,
     "country": "UNKNOWN",
-    "time": 1793053116.21346,
+    "time": 1793122170.659398,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -126,9 +126,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "9cf7893183bd50ae": {
-    "latency": 121,
+    "latency": 102,
     "country": "UNKNOWN",
-    "time": 1793053116.549039,
+    "time": 1793122170.708756,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -357,9 +357,9 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "1422d0172a4a30d1": {
-    "latency": 365,
+    "latency": 401,
     "country": "UNKNOWN",
-    "time": 1793053116.614894,
+    "time": 1793122171.007208,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -399,23 +399,23 @@
     "tier": "TIER1_REALITY_VISION"
   },
   "57ab2e9628c1324f": {
-    "latency": 320,
+    "latency": 275,
     "country": "UNKNOWN",
-    "time": 1792984668.672087,
+    "time": 1793122175.002906,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "69d42e528976aad8": {
-    "latency": 89,
+    "latency": 103,
     "country": "UNKNOWN",
-    "time": 1792984668.76541,
+    "time": 1793122175.106983,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
   "2f435aa325199728": {
-    "latency": 335,
+    "latency": 355,
     "country": "UNKNOWN",
-    "time": 1792984661.019785,
+    "time": 1793122170.959211,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   },
@@ -465,6 +465,20 @@
     "latency": 159,
     "country": "UNKNOWN",
     "time": 1793101050.02218,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "1b6f5af7f78bf8c6": {
+    "latency": 238,
+    "country": "UNKNOWN",
+    "time": 1793122170.837816,
+    "alive": true,
+    "tier": "TIER1_REALITY_VISION"
+  },
+  "ff9d227217af9008": {
+    "latency": 509,
+    "country": "UNKNOWN",
+    "time": 1793122175.617411,
     "alive": true,
     "tier": "TIER1_REALITY_VISION"
   }
