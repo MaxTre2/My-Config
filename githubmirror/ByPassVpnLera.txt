@@ -2,16 +2,13 @@
 #profile-update-interval: 3
 # MaxTre — VPN Bypass (WHITE полная проверка)
 # Проверено: TCP+TLS/REALITY/WS/XHTTP/XTLS-Vision
-# Лимит: 13 | Рабочих: 10
-# Обновлено: 00:28 | 08.11.2026
+# Лимит: 7 | Рабочих: 7
+# Обновлено: 00:41 | 09.11.2026
 
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome#%5B292ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&fp=edge#%5B777ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%5B183ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.145.106:8445?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#%5B799ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%E2%9A%A1T3-REALITY%20%40vlesstrojan%5D
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.167:443?alpn=http%2F1.1&host=lorettmay.top&path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=ios#%5B293ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8445?encryption=none&type=grpc&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&serviceName=grpc-reality&fp=edge#%5B738ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:443?encryption=none&type=xhttp&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&path=%2Fvless-xhttp&mode=auto&fp=chrome#%5B752ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?encryption=none&host=lorettmay.top&path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5B371ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?type=grpc&security=tls&sni=falmero.store&mode=gun&serviceName=glush.de1.v1&fp=chrome#%5B421ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
-vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@selek3.gamma-kvn.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selek3.gamma-kvn.com&alpn=h2&type=tcp&headerType=none&fp=chrome#%5B588ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://c3734677-b690-42b6-ab76-84cc7dd14c22@node2.shakalchk.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=node2.shakalchk.ru&fp=chrome&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3&flow=xtls-rprx-vision#%5B537ms%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%9B%A1%EF%B8%8FT1-REALITY-VISION%20%40vlesstrojan%5D
+vless://528c9248-7b50-45fb-9188-e46d889dafe6@185.186.143.76:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&security=reality&encryption=none&pbk=6vDdlh4aAipoRQ-IXDjzTUtKpZS09xtNXIisCa__2CM&spx=%2F&type=grpc&serviceName=grpc&sni=ru-kitchen.ru&sid=f74c6a18133e2e72&fp=safari#%5B167ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome#%5B266ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%ACT4-SPLITHTTP%20%40vlesstrojan%5D
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=safari#%5B159ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&fp=edge&headerType=none#%5B264ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&fp=chrome&alpn=http%2F1.1&headerType=none#%5B265ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#%5B346ms%20%F0%9F%8F%B3%EF%B8%8FUNKNOWN%20%F0%9F%94%97T5-OTHER%20%40vlesstrojan%5D
